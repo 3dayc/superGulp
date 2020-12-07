@@ -2,6 +2,6 @@
   "name": "superGulp",
   "version": "1.0.0",
   "description": "Learn Gulp",
-  "main": "index.js",
+  "repository": "https://github.com/hyanghoon/superGulp",
   "license": "MIT"
 }
